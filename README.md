@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/PWFi17E)](https://github.com/SleekGeek-254)
+[![MasterHead](<blockquote class="imgur-embed-pub" lang="en" data-id="a/w7U6uxV" data-context="false" ><a href="//imgur.com/a/w7U6uxV"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)](https://github.com/SleekGeek-254)
 <h1 align="center">Hi 👋, I'm Trevor Chiwo</h1>
 <h3 align="center">I am a Kenyan tech-savvy innovator, Blazing a trail for Future Tech</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
