@@ -1,4 +1,4 @@
-[![MasterHead]([https://imgflip.com/gif/766ubq](https://postimg.cc/jLFmLn3f))](https://github.com/SleekGeek-254)
+[![MasterHead](https://i.postimg.cc/t4qjvhhB/Level-Moment.jpg)](https://github.com/SleekGeek-254)
 <h1 align="center">Hi 👋, I'm Trevor Chiwo</h1>
 <h3 align="center">I am a Kenyan tech-savvy innovator, Blazing a trail for Future Tech</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
