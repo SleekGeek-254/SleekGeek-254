@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SleekGeek-254?tab=repositories](https://github.com/SleekGeek-254?tab=repositories)
 
-- 💬 Ask me about **Web Dev, Server Side Dev**
+- 💬 Ask me about **Web Development, Server Side Development, Blockchain Development**
 
-- 📫 How to reach me **tchiwo@icloud.co,**
+- 📫 How to reach me **tchiwo@icloud.com,**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/trevor-chiwo-3a0542246/](https://www.linkedin.com/in/trevor-chiwo-3a0542246/)
 
